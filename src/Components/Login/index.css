@@ -1,0 +1,9 @@
+.login-bg{
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: flex-start;
+    padding: 20px;
+    
+}

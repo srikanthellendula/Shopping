@@ -1,0 +1,19 @@
+.img1{
+    height: 400px;
+     
+}
+.full-item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.tit{
+    color: darkgreen;
+    font-size: 40px;
+}
+.desc{
+    max-width: 60%;
+}

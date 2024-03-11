@@ -1,0 +1,35 @@
+.img{
+    height: 300px;
+    width: 250px;
+}
+.grid-cont{
+    display: flex;
+    flex-direction: column;    
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    border: 0.5px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+.title{
+    font-size: 20px;
+    max-width: 100px;
+    text-align: left;
+}
+.price{
+    font-size: 30px;
+    font-style: 'Roboto';
+    font-weight: 600;
+}
+h1{
+    text-align: center;
+}
+
+.view-more{
+    background-color: darkgreen;
+    color: white;
+    padding: 10px;
+    border: 0px solid darkgreen;
+    border-radius: 6px;
+}
